@@ -1,0 +1,4 @@
+name = "HerbProlog"
+uuid = "fc65e883-99ae-45a3-9071-728decc5f163"
+authors = ["Sebastijan Dumancic <sebastijan.dumancic@gmail.com>"]
+version = "0.1.0"
