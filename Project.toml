@@ -2,3 +2,8 @@ name = "HerbProlog"
 uuid = "fc65e883-99ae-45a3-9071-728decc5f163"
 authors = ["Sebastijan Dumancic <sebastijan.dumancic@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Debugger = "31a5f54b-26ea-5ae9-a837-f05ce5417438"
+HerbLanguage = "6e24ae89-a404-4b09-b30f-50a2434815b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
